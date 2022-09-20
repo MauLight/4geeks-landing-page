@@ -10,3 +10,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+    background: #343a40;
+    color: whitesmoke;
+}
+
+.card {
+    width: 18rem;
+    background: #343a40;
+}
